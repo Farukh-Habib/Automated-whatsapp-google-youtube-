@@ -11,5 +11,5 @@ import pywhatkit
 
 
 # chech windows profile
-pywhatkit.check_window()                              
+# pywhatkit.check_window()                              
 
